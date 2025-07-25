@@ -1,6 +1,4 @@
-Welcome to Node.js v22.17.1.
-Type ".help" for more information.
-> {
+{
 ...   "name": "paypal-server",
 ...   "version": "1.0.0",
 ...   "main": "index.js",
@@ -114,4 +112,4 @@ Uncaught ReferenceError: app is not defined
 >
 > app.listen(3000, () => console.log("Server running on port 3000"));
 Uncaught ReferenceError: app is not defined
->
+
